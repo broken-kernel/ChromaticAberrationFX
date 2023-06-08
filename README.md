@@ -3,8 +3,6 @@
 
 Chromatic aberration FX for godot engine
 ------------------------------------
-![Screenshot](https://raw.githubusercontent.com/7leodev/Godot-ChromaticAberrationFX/main/Screenshots/Screenshot0.jpg)
-
 
 ## Status:
 > 1.0.0
